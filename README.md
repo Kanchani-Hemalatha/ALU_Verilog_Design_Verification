@@ -48,6 +48,8 @@
 ## EDA Playground Link:
 [Click here to view the simulation](https://www.edaplayground.com/x/gDvz)
 
+## SIMULATION OUTPUT: 
+![image](https://github.com/user-attachments/assets/14b51102-f031-4a40-a5c5-b95683ecf172)
 
-## WAVEFORM : 
+## WAVEFORM: 
 ![image](https://github.com/user-attachments/assets/0625eb56-ea85-441c-9089-a2ad79b88e18)
