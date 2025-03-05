@@ -86,9 +86,9 @@ module testbench;
       $display("================================================");
     end
   end
-  //calling $finish after 500ns
+  //calling $finish after 250ns
   initial begin
-    #500 $finish;
+    #250 $finish;
   end
   
 endmodule:testbench
